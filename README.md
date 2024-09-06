@@ -1,5 +1,5 @@
 # RockPaperScissors
-A Python and Object-Oriented Program based game of Rock Paper Scissors. The game has two players - a human can play and a computer player. In a single round of the game, each player secretly chooses one of three moves — rock, paper, or scissors. Then, players reveal their moves at the same time. If both players picked the same move, there is no winner. Otherwise, rock beats scissors; paper beats rock; and scissors beat paper.
+A python based game of Rock Paper Scissors. The game has two players - a human player and a computer player. In a single round of the game, each player secretly chooses one of three moves — rock, paper, or scissors. Then, players reveal their moves at the same time. If both players picked the same move, there is no winner. Otherwise, rock beats scissors; paper beats rock; and scissors beat paper.
 
 
 ## Application Preview
