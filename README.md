@@ -21,13 +21,13 @@ https://github.com/user-attachments/assets/16d847a5-0800-4398-a285-336380a05a02
 * Run command
 ```python3 rps.py```
 * Follow the instructions on the screen and play the game
-* In order to change the computer player's playing strategy, the code file `rps.py` should to be edited in __main__ function to RandomPlayer(), ReflectPlayer() or CyclePlayer()
+* In order to change the computer player's playing strategy, the code file `rps.py` should to be edited in \__main__ function to RandomPlayer(), ReflectPlayer() or CyclePlayer()
 
 
 ## Folder Structure
 
-README.md - Read me file with project details and instructions
-rps.py - Python code file
+* README.md - Read me file with project details and instructions
+* rps.py - Python code file
 
 
 ## Highlights
